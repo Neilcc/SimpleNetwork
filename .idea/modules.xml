@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/WSManager.iml" filepath="$PROJECT_DIR$/.idea/modules/WSManager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/WSManager.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/WSManager.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/WSManager.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/WSManager.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/WSManager.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/WSManager.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/WSManager.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/WSManager.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/simplenetwork/WSManager.simplenetwork.iml" filepath="$PROJECT_DIR$/.idea/modules/simplenetwork/WSManager.simplenetwork.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/simplenetwork/WSManager.simplenetwork.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/simplenetwork/WSManager.simplenetwork.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/simplenetwork/WSManager.simplenetwork.main.iml" filepath="$PROJECT_DIR$/.idea/modules/simplenetwork/WSManager.simplenetwork.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/simplenetwork/WSManager.simplenetwork.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/simplenetwork/WSManager.simplenetwork.unitTest.iml" />
+    </modules>
+  </component>
+</project>
